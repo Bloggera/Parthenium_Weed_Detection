@@ -1,4 +1,4 @@
-# parthenium_train.py
+
 import os
 import shutil
 import random
